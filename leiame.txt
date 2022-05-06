@@ -1,0 +1,7 @@
+``LEIA-ME´´ 
+
+PROJETO DESENVOLVIDO PARA ESTUDOS DE VERSIONAMENTO EM TI. 
+
+por Adriele Kempe 
+
+05/05/22- Inicio e Criação do Projeto Versionamento, ultilização do GIT e GITHUB 
